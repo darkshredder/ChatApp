@@ -1,2 +1,3 @@
 # ChatApp
-## Simple chat Application based on sql and php 
+## Simple chat Application 
+### Based on SQL and PHP
